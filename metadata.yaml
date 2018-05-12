@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5239
     wikipedia: http://en.wikipedia.org/wiki/Sidney_Gulick
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35511#Working-Women-of-Japan
 gutenberg_issued: '2011-03-07'
 gutenberg_type: Text
 identifiers:
