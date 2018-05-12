@@ -1,0 +1,32 @@
+_repo: Working-Women-of-Japan_35511
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gulick, Sidney Lewis
+    alias: Gulick, Sidney L. (Sidney Lewis)
+    birthdate: 1860
+    deathdate: 1945
+    gutenberg_agent_id: '5239'
+    url: http://www.gutenberg.org/2009/agents/5239
+    wikipedia: http://en.wikipedia.org/wiki/Sidney_Gulick
+description: ''
+gutenberg_issued: '2011-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35511'
+  lccn: '15019437'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan -- Social life and customs'
+- !lcc 'HD'
+- !lcc 'DS'
+- !lcsh 'Women -- Employment -- Japan'
+- !lcsh 'Women -- Japan'
+title: Working Women of Japan
+url: http://www.gutenberg.org/ebooks/35511
